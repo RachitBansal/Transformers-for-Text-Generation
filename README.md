@@ -10,7 +10,8 @@
 	- XLNet
 	- Transformer-XL
 
-[**_Some results:_**]
+[**_Some results_**]
+
 **Input**: 'what would'
 **Output**: 'what would happen if the government decided to take a more aggressive approach to the issue.'
 
@@ -22,6 +23,7 @@
 
 
 **_Generated Texts_**
+
 **Input**: 'The political situation in the country is quite disturbing, with pigs occupying the major positions and others chanting his name like god' (no offence intended to anyone)
 
 **GPT-2 Output**: 'and rescuing civilians from the street. The rules of government are very clear. Now imagine a Muslim government that if forced to support four or five hundred people and hand over their arms to those who kill them, the public would vote for the 'illegal and inhuman'. And the victims would feel 'condolences', while the attackers seek revenge for their crimes. On that same day in 1982, President George H.W. Bush was invited by the communists to the United States to look at the effects of'
