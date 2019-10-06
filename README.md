@@ -1,6 +1,6 @@
 # Transformers-for-Text-Generation
 
-[Tasks taken up:]
+[Tasks taken up]:
 - Sentence Completion
 	- Single Word Addition 
 	- Multi Word Addtion 
@@ -10,7 +10,7 @@
 	- XLNet
 	- Transformer-XL
 
-**[_Some results:_]**
+[**_Some results:_**]
 **Input**: 'what would'
 **Output**: 'what would happen if the government decided to take a more aggressive approach to the issue.'
 
